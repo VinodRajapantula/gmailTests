@@ -1,0 +1,527 @@
+2018-07-21 20:13:11 INFO  root:32 - Chrome driver initiated
+2018-07-21 20:13:12 INFO  root:40 - Driver maxmized
+2018-07-21 20:13:12 INFO  root:42 - implicit timeout set
+2018-07-21 20:13:12 INFO  root:44 - Deleted all cookies
+2018-07-21 20:13:14 INFO  root:50 - invoked base url
+2018-07-21 20:13:14 INFO  root:18 - Second Test started
+2018-07-21 20:13:14 INFO  root:18 - Testcase Pass:null
+2018-07-21 20:14:57 INFO  root:32 - Chrome driver initiated
+2018-07-21 20:14:58 INFO  root:40 - Driver maxmized
+2018-07-21 20:14:58 INFO  root:42 - implicit timeout set
+2018-07-21 20:14:58 INFO  root:44 - Deleted all cookies
+2018-07-21 20:14:59 INFO  root:50 - invoked base url
+2018-07-21 20:15:00 INFO  root:19 - FirstTest started
+2018-07-21 20:15:00 INFO  root:18 - Testcase Pass:null
+2018-07-21 20:15:02 INFO  root:32 - Chrome driver initiated
+2018-07-21 20:15:03 INFO  root:40 - Driver maxmized
+2018-07-21 20:15:03 INFO  root:42 - implicit timeout set
+2018-07-21 20:15:03 INFO  root:44 - Deleted all cookies
+2018-07-21 20:15:05 INFO  root:50 - invoked base url
+2018-07-21 20:15:05 INFO  root:18 - Second Test started
+2018-07-21 20:15:05 INFO  root:18 - Testcase Pass:null
+2018-07-22 09:42:37 INFO  root:32 - Chrome driver initiated
+2018-07-22 09:42:39 INFO  root:40 - Driver maxmized
+2018-07-22 09:42:39 INFO  root:42 - implicit timeout set
+2018-07-22 09:42:39 INFO  root:44 - Deleted all cookies
+2018-07-22 09:42:41 INFO  root:50 - invoked base url
+2018-07-22 09:42:41 INFO  root:20 - FirstTest started
+2018-07-22 09:42:41 INFO  root:18 - Testcase Pass:Test1.myFirstTest()[pri:0, instance:scenarios.Test1@77caeb3e]
+2018-07-22 09:42:43 INFO  root:32 - Chrome driver initiated
+2018-07-22 09:42:44 INFO  root:40 - Driver maxmized
+2018-07-22 09:42:44 INFO  root:42 - implicit timeout set
+2018-07-22 09:42:44 INFO  root:44 - Deleted all cookies
+2018-07-22 09:42:46 INFO  root:50 - invoked base url
+2018-07-22 09:42:46 INFO  root:19 - Second Test started
+2018-07-22 09:42:46 INFO  root:18 - Testcase Pass:Test2.mySecondTest()[pri:0, instance:scenarios.Test2@1e88b3c]
+2018-07-22 09:42:47 INFO  root:56 - Drver got closed
+2018-07-22 09:42:47 INFO  root:56 - Drver got closed
+2018-07-22 09:43:53 INFO  root:32 - Chrome driver initiated
+2018-07-22 09:43:54 INFO  root:40 - Driver maxmized
+2018-07-22 09:43:54 INFO  root:42 - implicit timeout set
+2018-07-22 09:43:54 INFO  root:44 - Deleted all cookies
+2018-07-22 09:43:55 INFO  root:50 - invoked base url
+2018-07-22 09:43:55 INFO  root:20 - FirstTest started
+2018-07-22 09:43:56 INFO  root:56 - Drver got closed
+2018-07-22 09:43:56 INFO  root:18 - Testcase Pass:Test1.myFirstTest()[pri:0, instance:scenarios.Test1@66a3ffec]
+2018-07-22 09:43:59 INFO  root:32 - Chrome driver initiated
+2018-07-22 09:44:00 INFO  root:40 - Driver maxmized
+2018-07-22 09:44:00 INFO  root:42 - implicit timeout set
+2018-07-22 09:44:00 INFO  root:44 - Deleted all cookies
+2018-07-22 09:44:01 INFO  root:50 - invoked base url
+2018-07-22 09:44:01 INFO  root:19 - Second Test started
+2018-07-22 09:44:02 INFO  root:56 - Drver got closed
+2018-07-22 09:44:02 INFO  root:18 - Testcase Pass:Test2.mySecondTest()[pri:0, instance:scenarios.Test2@77caeb3e]
+2018-07-22 09:44:49 INFO  root:32 - Chrome driver initiated
+2018-07-22 09:44:50 INFO  root:40 - Driver maxmized
+2018-07-22 09:44:50 INFO  root:42 - implicit timeout set
+2018-07-22 09:44:50 INFO  root:44 - Deleted all cookies
+2018-07-22 09:44:52 INFO  root:50 - invoked base url
+2018-07-22 09:44:52 INFO  root:20 - FirstTest started
+2018-07-22 09:44:52 INFO  root:56 - Drver got closed
+2018-07-22 09:44:52 INFO  root:18 - Testcase Pass:Test1.myFirstTest()[pri:0, instance:scenarios.Test1@66a3ffec]
+2018-07-22 09:44:55 INFO  root:32 - Chrome driver initiated
+2018-07-22 09:44:56 INFO  root:40 - Driver maxmized
+2018-07-22 09:44:56 INFO  root:42 - implicit timeout set
+2018-07-22 09:44:56 INFO  root:44 - Deleted all cookies
+2018-07-22 09:44:57 INFO  root:50 - invoked base url
+2018-07-22 09:44:57 INFO  root:19 - Second Test started
+2018-07-22 09:44:57 INFO  root:18 - Testcase Pass:Test2.mySecondTest()[pri:0, instance:scenarios.Test2@77caeb3e]
+2018-07-22 10:26:16 INFO  root:32 - Chrome driver initiated
+2018-07-22 10:26:17 INFO  root:40 - Driver maxmized
+2018-07-22 10:26:17 INFO  root:42 - implicit timeout set
+2018-07-22 10:26:17 INFO  root:44 - Deleted all cookies
+2018-07-22 10:26:18 INFO  root:50 - invoked base url
+2018-07-22 10:26:18 INFO  root:22 - FirstTest started
+2018-07-22 10:26:19 INFO  root:32 - UserName Entered
+2018-07-22 10:27:09 INFO  root:32 - Chrome driver initiated
+2018-07-22 10:27:10 INFO  root:40 - Driver maxmized
+2018-07-22 10:27:10 INFO  root:42 - implicit timeout set
+2018-07-22 10:27:10 INFO  root:44 - Deleted all cookies
+2018-07-22 10:27:11 INFO  root:50 - invoked base url
+2018-07-22 10:27:11 INFO  root:22 - FirstTest started
+2018-07-22 10:27:11 INFO  root:32 - UserName Entered
+2018-07-22 10:27:12 INFO  root:42 - UserName Entered
+2018-07-22 10:28:04 INFO  root:32 - Chrome driver initiated
+2018-07-22 10:28:05 INFO  root:40 - Driver maxmized
+2018-07-22 10:28:05 INFO  root:42 - implicit timeout set
+2018-07-22 10:28:05 INFO  root:44 - Deleted all cookies
+2018-07-22 10:28:07 INFO  root:50 - invoked base url
+2018-07-22 10:28:07 INFO  root:22 - FirstTest started
+2018-07-22 10:28:07 INFO  root:32 - UserName Entered
+2018-07-22 10:28:07 INFO  root:42 - UserName Entered
+2018-07-22 10:28:09 INFO  root:37 - Password Entered
+2018-07-22 10:28:10 INFO  root:42 - UserName Entered
+2018-07-22 10:28:10 INFO  root:18 - Testcase Pass:Test1.myFirstTest()[pri:0, instance:scenarios.Test1@3e6fa38a]
+2018-07-22 10:29:13 INFO  root:32 - Chrome driver initiated
+2018-07-22 10:29:14 INFO  root:40 - Driver maxmized
+2018-07-22 10:29:14 INFO  root:42 - implicit timeout set
+2018-07-22 10:29:14 INFO  root:44 - Deleted all cookies
+2018-07-22 10:29:16 INFO  root:50 - invoked base url
+2018-07-22 10:29:16 INFO  root:22 - FirstTest started
+2018-07-22 10:29:16 INFO  root:32 - UserName Entered
+2018-07-22 10:29:16 INFO  root:42 - UserName Entered
+2018-07-22 10:29:18 INFO  root:37 - Password Entered
+2018-07-22 10:29:18 INFO  root:42 - UserName Entered
+2018-07-22 10:29:18 INFO  root:18 - Testcase Pass:Test1.myFirstTest()[pri:0, instance:scenarios.Test1@3e6fa38a]
+2018-07-22 10:37:13 INFO  root:32 - Chrome driver initiated
+2018-07-22 10:37:14 INFO  root:40 - Driver maxmized
+2018-07-22 10:37:14 INFO  root:42 - implicit timeout set
+2018-07-22 10:37:14 INFO  root:44 - Deleted all cookies
+2018-07-22 10:37:16 INFO  root:50 - invoked base url
+2018-07-22 10:37:16 INFO  root:23 - FirstTest started
+2018-07-22 10:37:16 INFO  root:31 - UserName Entered
+2018-07-22 10:37:16 INFO  root:41 - UserName Entered
+2018-07-22 10:37:18 INFO  root:36 - Password Entered
+2018-07-22 10:37:18 INFO  root:41 - UserName Entered
+2018-07-22 10:37:23 INFO  root:34 - myFirstTest got Passed
+2018-07-22 10:37:23 INFO  root:56 - Drver got closed
+2018-07-22 10:37:23 INFO  root:18 - Testcase Pass:Test1.myFirstTest()[pri:0, instance:scenarios.Test1@3e6fa38a]
+2018-07-22 10:43:29 INFO  root:32 - Chrome driver initiated
+2018-07-22 10:43:30 INFO  root:40 - Driver maxmized
+2018-07-22 10:43:30 INFO  root:42 - implicit timeout set
+2018-07-22 10:43:30 INFO  root:44 - Deleted all cookies
+2018-07-22 10:43:31 INFO  root:50 - invoked base url
+2018-07-22 10:43:32 INFO  root:23 - FirstTest started
+2018-07-22 10:43:32 INFO  root:31 - UserName Entered
+2018-07-22 10:43:32 INFO  root:41 - UserName Entered
+2018-07-22 10:43:34 INFO  root:36 - Password Entered
+2018-07-22 10:43:34 INFO  root:41 - UserName Entered
+2018-07-22 10:43:38 INFO  root:34 - myFirstTest got Passed
+2018-07-22 10:43:39 INFO  root:56 - Drver got closed
+2018-07-22 10:43:39 INFO  root:25 - Testcase Pass:
+2018-07-22 10:43:56 INFO  root:32 - Chrome driver initiated
+2018-07-22 10:43:57 INFO  root:40 - Driver maxmized
+2018-07-22 10:43:57 INFO  root:42 - implicit timeout set
+2018-07-22 10:43:57 INFO  root:44 - Deleted all cookies
+2018-07-22 10:43:59 INFO  root:50 - invoked base url
+2018-07-22 10:43:59 INFO  root:23 - FirstTest started
+2018-07-22 10:43:59 INFO  root:31 - UserName Entered
+2018-07-22 10:43:59 INFO  root:41 - UserName Entered
+2018-07-22 10:44:01 INFO  root:36 - Password Entered
+2018-07-22 10:44:01 INFO  root:41 - UserName Entered
+2018-07-22 10:44:05 INFO  root:34 - myFirstTest got Passed
+2018-07-22 10:44:06 INFO  root:56 - Drver got closed
+2018-07-22 10:44:06 INFO  root:25 - Testcase Pass:
+2018-07-22 10:44:08 INFO  root:32 - Chrome driver initiated
+2018-07-22 10:44:10 INFO  root:40 - Driver maxmized
+2018-07-22 10:44:10 INFO  root:42 - implicit timeout set
+2018-07-22 10:44:10 INFO  root:44 - Deleted all cookies
+2018-07-22 10:44:11 INFO  root:50 - invoked base url
+2018-07-22 10:44:11 INFO  root:23 - FirstTest started
+2018-07-22 10:44:11 INFO  root:31 - UserName Entered
+2018-07-22 10:44:11 INFO  root:41 - UserName Entered
+2018-07-22 10:44:13 INFO  root:36 - Password Entered
+2018-07-22 10:44:14 INFO  root:41 - UserName Entered
+2018-07-22 10:44:18 INFO  root:34 - mySecondTest got Passed
+2018-07-22 10:44:19 INFO  root:56 - Drver got closed
+2018-07-22 10:44:19 INFO  root:25 - Testcase Pass:
+2018-07-22 10:47:27 INFO  root:32 - Chrome driver initiated
+2018-07-22 10:47:28 INFO  root:40 - Driver maxmized
+2018-07-22 10:47:28 INFO  root:42 - implicit timeout set
+2018-07-22 10:47:28 INFO  root:44 - Deleted all cookies
+2018-07-22 10:47:30 INFO  root:50 - invoked base url
+2018-07-22 10:47:30 INFO  root:23 - FirstTest started
+2018-07-22 10:47:30 INFO  root:31 - UserName Entered
+2018-07-22 10:47:30 INFO  root:41 - UserName Entered
+2018-07-22 10:47:32 INFO  root:36 - Password Entered
+2018-07-22 10:47:32 INFO  root:41 - UserName Entered
+2018-07-22 10:47:37 INFO  root:34 - myFirstTest got Passed
+2018-07-22 10:47:37 INFO  root:56 - Drver got closed
+2018-07-22 10:47:37 INFO  root:25 - Listner Testcase Pass:
+2018-07-22 10:47:40 INFO  root:32 - Chrome driver initiated
+2018-07-22 10:47:41 INFO  root:40 - Driver maxmized
+2018-07-22 10:47:41 INFO  root:42 - implicit timeout set
+2018-07-22 10:47:41 INFO  root:44 - Deleted all cookies
+2018-07-22 10:47:42 INFO  root:50 - invoked base url
+2018-07-22 10:47:42 INFO  root:23 - FirstTest started
+2018-07-22 10:47:42 INFO  root:31 - UserName Entered
+2018-07-22 10:47:43 INFO  root:41 - UserName Entered
+2018-07-22 10:47:45 INFO  root:36 - Password Entered
+2018-07-22 10:47:45 INFO  root:41 - UserName Entered
+2018-07-22 10:47:49 INFO  root:34 - mySecondTest got Passed
+2018-07-22 10:47:50 INFO  root:56 - Drver got closed
+2018-07-22 10:47:50 INFO  root:25 - Listner Testcase Pass:
+2018-07-22 10:48:33 INFO  root:32 - Chrome driver initiated
+2018-07-22 10:48:34 INFO  root:40 - Driver maxmized
+2018-07-22 10:48:34 INFO  root:42 - implicit timeout set
+2018-07-22 10:48:34 INFO  root:44 - Deleted all cookies
+2018-07-22 10:48:36 INFO  root:50 - invoked base url
+2018-07-22 10:48:36 INFO  root:23 - FirstTest started
+2018-07-22 10:48:36 INFO  root:31 - UserName Entered
+2018-07-22 10:49:06 INFO  root:30 - Listner Testcase Fail:
+2018-07-22 10:49:08 INFO  root:32 - Chrome driver initiated
+2018-07-22 10:49:09 INFO  root:40 - Driver maxmized
+2018-07-22 10:49:09 INFO  root:42 - implicit timeout set
+2018-07-22 10:49:09 INFO  root:44 - Deleted all cookies
+2018-07-22 10:49:11 INFO  root:50 - invoked base url
+2018-07-22 10:49:11 INFO  root:23 - FirstTest started
+2018-07-22 10:49:11 INFO  root:31 - UserName Entered
+2018-07-22 10:49:41 INFO  root:30 - Listner Testcase Fail:
+2018-07-22 10:53:14 INFO  root:32 - Chrome driver initiated
+2018-07-22 10:53:15 INFO  root:40 - Driver maxmized
+2018-07-22 10:53:15 INFO  root:42 - implicit timeout set
+2018-07-22 10:53:15 INFO  root:44 - Deleted all cookies
+2018-07-22 10:53:17 INFO  root:50 - invoked base url
+2018-07-22 10:53:17 INFO  root:23 - FirstTest started
+2018-07-22 10:53:17 INFO  root:31 - UserName Entered
+2018-07-22 10:53:47 INFO  root:30 - Listner Testcase Fail:
+2018-07-22 10:53:49 INFO  root:32 - Chrome driver initiated
+2018-07-22 10:53:50 INFO  root:40 - Driver maxmized
+2018-07-22 10:53:50 INFO  root:42 - implicit timeout set
+2018-07-22 10:53:50 INFO  root:44 - Deleted all cookies
+2018-07-22 10:53:52 INFO  root:50 - invoked base url
+2018-07-22 10:53:52 INFO  root:23 - FirstTest started
+2018-07-22 10:53:52 INFO  root:31 - UserName Entered
+2018-07-22 10:54:22 INFO  root:30 - Listner Testcase Fail:
+2018-07-22 10:57:18 INFO  root:32 - Chrome driver initiated
+2018-07-22 10:57:19 INFO  root:40 - Driver maxmized
+2018-07-22 10:57:19 INFO  root:42 - implicit timeout set
+2018-07-22 10:57:19 INFO  root:44 - Deleted all cookies
+2018-07-22 10:57:21 INFO  root:50 - invoked base url
+2018-07-22 10:57:21 INFO  root:23 - FirstTest started
+2018-07-22 10:57:21 INFO  root:31 - UserName Entered
+2018-07-22 10:57:51 INFO  root:26 - Listner Testcase Fail:
+2018-07-22 10:57:51 INFO  root:56 - Drver got closed
+2018-07-22 10:57:53 INFO  root:32 - Chrome driver initiated
+2018-07-22 10:57:54 INFO  root:40 - Driver maxmized
+2018-07-22 10:57:54 INFO  root:42 - implicit timeout set
+2018-07-22 10:57:54 INFO  root:44 - Deleted all cookies
+2018-07-22 10:57:56 INFO  root:50 - invoked base url
+2018-07-22 10:57:56 INFO  root:23 - FirstTest started
+2018-07-22 10:57:56 INFO  root:31 - UserName Entered
+2018-07-22 10:58:26 INFO  root:26 - Listner Testcase Fail:
+2018-07-22 10:58:26 INFO  root:56 - Drver got closed
+2018-07-22 11:02:43 INFO  root:32 - Chrome driver initiated
+2018-07-22 11:02:44 INFO  root:40 - Driver maxmized
+2018-07-22 11:02:44 INFO  root:42 - implicit timeout set
+2018-07-22 11:02:44 INFO  root:44 - Deleted all cookies
+2018-07-22 11:02:46 INFO  root:50 - invoked base url
+2018-07-22 11:02:46 INFO  root:24 - FirstTest started
+2018-07-22 11:02:46 INFO  root:31 - UserName Entered
+2018-07-22 11:03:16 INFO  root:26 - Listner Testcase Fail:
+2018-07-22 11:03:18 INFO  root:32 - Chrome driver initiated
+2018-07-22 11:03:19 INFO  root:40 - Driver maxmized
+2018-07-22 11:03:19 INFO  root:42 - implicit timeout set
+2018-07-22 11:03:19 INFO  root:44 - Deleted all cookies
+2018-07-22 11:03:21 INFO  root:50 - invoked base url
+2018-07-22 11:03:21 INFO  root:23 - FirstTest started
+2018-07-22 11:03:21 INFO  root:31 - UserName Entered
+2018-07-22 11:03:51 INFO  root:26 - Listner Testcase Fail:
+2018-07-22 11:37:57 INFO  root:38 - Chrome driver initiated
+2018-07-22 11:37:58 INFO  root:46 - Driver maxmized
+2018-07-22 11:37:58 INFO  root:48 - implicit timeout set
+2018-07-22 11:37:58 INFO  root:50 - Deleted all cookies
+2018-07-22 11:37:59 INFO  root:56 - invoked base url
+2018-07-22 11:37:59 INFO  root:24 - FirstTest started
+2018-07-22 11:38:00 INFO  root:31 - UserName Entered
+2018-07-22 11:38:30 INFO  root:30 - Listner Testcase Fail:
+2018-07-22 11:38:32 INFO  root:38 - Chrome driver initiated
+2018-07-22 11:38:33 INFO  root:46 - Driver maxmized
+2018-07-22 11:38:33 INFO  root:48 - implicit timeout set
+2018-07-22 11:38:33 INFO  root:50 - Deleted all cookies
+2018-07-22 11:38:35 INFO  root:56 - invoked base url
+2018-07-22 11:38:35 INFO  root:23 - FirstTest started
+2018-07-22 11:38:35 INFO  root:31 - UserName Entered
+2018-07-22 11:39:05 INFO  root:30 - Listner Testcase Fail:
+2018-07-22 11:39:28 INFO  root:38 - Chrome driver initiated
+2018-07-22 11:39:29 INFO  root:46 - Driver maxmized
+2018-07-22 11:39:29 INFO  root:48 - implicit timeout set
+2018-07-22 11:39:29 INFO  root:50 - Deleted all cookies
+2018-07-22 11:39:31 INFO  root:56 - invoked base url
+2018-07-22 11:39:31 INFO  root:24 - FirstTest started
+2018-07-22 11:39:31 INFO  root:31 - UserName Entered
+2018-07-22 11:40:01 INFO  root:30 - Listner Testcase Fail:
+2018-07-22 11:40:01 INFO  root:62 - Drver got closed
+2018-07-22 11:40:03 INFO  root:38 - Chrome driver initiated
+2018-07-22 11:40:04 INFO  root:46 - Driver maxmized
+2018-07-22 11:40:04 INFO  root:48 - implicit timeout set
+2018-07-22 11:40:04 INFO  root:50 - Deleted all cookies
+2018-07-22 11:40:06 INFO  root:56 - invoked base url
+2018-07-22 11:40:06 INFO  root:23 - FirstTest started
+2018-07-22 11:40:06 INFO  root:31 - UserName Entered
+2018-07-22 11:40:06 INFO  root:30 - Listner Testcase Fail:
+2018-07-22 11:40:06 INFO  root:62 - Drver got closed
+2018-07-22 12:52:41 INFO  root:38 - Chrome driver initiated
+2018-07-22 12:52:42 INFO  root:46 - Driver maxmized
+2018-07-22 12:52:42 INFO  root:48 - implicit timeout set
+2018-07-22 12:52:42 INFO  root:50 - Deleted all cookies
+2018-07-22 12:53:05 INFO  root:56 - invoked base url
+2018-07-22 12:53:06 INFO  root:24 - FirstTest started
+2018-07-22 12:53:06 INFO  root:31 - UserName Entered
+2018-07-22 12:53:06 INFO  root:41 - UserName Entered
+2018-07-22 12:53:08 INFO  root:36 - Password Entered
+2018-07-22 12:53:08 INFO  root:41 - UserName Entered
+2018-07-22 12:53:14 INFO  root:35 - myFirstTest got Passed
+2018-07-22 12:53:14 INFO  root:62 - Drver got closed
+2018-07-22 12:53:15 INFO  root:64 - Drver got closed
+2018-07-22 12:53:15 INFO  root:25 - Listner Testcase Pass:
+2018-07-22 12:53:17 INFO  root:38 - Chrome driver initiated
+2018-07-22 12:53:18 INFO  root:46 - Driver maxmized
+2018-07-22 12:53:18 INFO  root:48 - implicit timeout set
+2018-07-22 12:53:18 INFO  root:50 - Deleted all cookies
+2018-07-22 12:53:20 INFO  root:56 - invoked base url
+2018-07-22 12:53:20 INFO  root:23 - FirstTest started
+2018-07-22 12:53:20 INFO  root:31 - UserName Entered
+2018-07-22 12:53:21 INFO  root:41 - UserName Entered
+2018-07-22 12:53:23 INFO  root:36 - Password Entered
+2018-07-22 12:53:23 INFO  root:41 - UserName Entered
+2018-07-22 12:53:28 INFO  root:34 - mySecondTest got Passed
+2018-07-22 12:53:28 INFO  root:62 - Drver got closed
+2018-07-22 12:53:29 INFO  root:64 - Drver got closed
+2018-07-22 12:53:29 INFO  root:25 - Listner Testcase Pass:
+2018-07-22 12:54:59 INFO  root:38 - Chrome driver initiated
+2018-07-22 12:55:00 INFO  root:46 - Driver maxmized
+2018-07-22 12:55:00 INFO  root:48 - implicit timeout set
+2018-07-22 12:55:00 INFO  root:50 - Deleted all cookies
+2018-07-22 12:55:02 INFO  root:56 - invoked base url
+2018-07-22 12:55:02 INFO  root:24 - FirstTest started
+2018-07-22 12:55:02 INFO  root:31 - UserName Entered
+2018-07-22 12:55:02 INFO  root:41 - UserName Entered
+2018-07-22 12:55:04 INFO  root:36 - Password Entered
+2018-07-22 12:55:04 INFO  root:41 - UserName Entered
+2018-07-22 12:55:10 INFO  root:35 - myFirstTest got Passed
+2018-07-22 12:55:10 INFO  root:62 - Drver got closed
+2018-07-22 12:55:11 INFO  root:64 - Drver got closed
+2018-07-22 12:55:11 INFO  root:25 - Listner Testcase Pass:
+2018-07-22 12:55:13 INFO  root:38 - Chrome driver initiated
+2018-07-22 12:55:14 INFO  root:46 - Driver maxmized
+2018-07-22 12:55:14 INFO  root:48 - implicit timeout set
+2018-07-22 12:55:14 INFO  root:50 - Deleted all cookies
+2018-07-22 12:55:16 INFO  root:56 - invoked base url
+2018-07-22 12:55:16 INFO  root:23 - FirstTest started
+2018-07-22 12:55:16 INFO  root:31 - UserName Entered
+2018-07-22 12:55:16 INFO  root:41 - UserName Entered
+2018-07-22 12:55:19 INFO  root:36 - Password Entered
+2018-07-22 12:55:19 INFO  root:41 - UserName Entered
+2018-07-22 12:55:23 INFO  root:34 - mySecondTest got Passed
+2018-07-22 12:55:23 INFO  root:62 - Drver got closed
+2018-07-22 12:55:24 INFO  root:64 - Drver got closed
+2018-07-22 12:55:24 INFO  root:25 - Listner Testcase Pass:
+2018-07-22 13:27:09 INFO  root:38 - Chrome driver initiated
+2018-07-22 13:27:10 INFO  root:46 - Driver maxmized
+2018-07-22 13:27:10 INFO  root:48 - implicit timeout set
+2018-07-22 13:27:10 INFO  root:50 - Deleted all cookies
+2018-07-22 13:27:11 INFO  root:56 - invoked base url
+2018-07-22 13:27:11 INFO  root:24 - FirstTest started
+2018-07-22 13:27:12 INFO  root:31 - UserName Entered
+2018-07-22 13:27:12 INFO  root:41 - UserName Entered
+2018-07-22 13:27:14 INFO  root:36 - Password Entered
+2018-07-22 13:27:14 INFO  root:41 - UserName Entered
+2018-07-22 13:27:19 INFO  root:35 - myFirstTest got Passed
+2018-07-22 13:27:19 INFO  root:62 - Drver got closed
+2018-07-22 13:27:20 INFO  root:64 - Drver got closed
+2018-07-22 13:27:20 INFO  root:25 - Listner Testcase Pass:
+2018-07-22 13:27:22 INFO  root:38 - Chrome driver initiated
+2018-07-22 13:27:23 INFO  root:46 - Driver maxmized
+2018-07-22 13:27:23 INFO  root:48 - implicit timeout set
+2018-07-22 13:27:23 INFO  root:50 - Deleted all cookies
+2018-07-22 13:27:25 INFO  root:56 - invoked base url
+2018-07-22 13:27:25 INFO  root:23 - FirstTest started
+2018-07-22 13:27:25 INFO  root:31 - UserName Entered
+2018-07-22 13:27:25 INFO  root:41 - UserName Entered
+2018-07-22 13:27:28 INFO  root:36 - Password Entered
+2018-07-22 13:27:28 INFO  root:41 - UserName Entered
+2018-07-22 13:27:33 INFO  root:34 - mySecondTest got Passed
+2018-07-22 13:27:33 INFO  root:62 - Drver got closed
+2018-07-22 13:27:34 INFO  root:64 - Drver got closed
+2018-07-22 13:27:34 INFO  root:25 - Listner Testcase Pass:
+2018-07-22 14:02:17 INFO  root:48 - Chrome driver initiated
+2018-07-22 14:02:18 INFO  root:56 - Driver maxmized
+2018-07-22 14:02:18 INFO  root:58 - implicit timeout set
+2018-07-22 14:02:18 INFO  root:60 - Deleted all cookies
+2018-07-22 14:02:20 INFO  root:66 - invoked base url
+2018-07-22 14:02:20 INFO  root:30 - FirstTest started
+2018-07-22 14:02:21 INFO  root:31 - UserName Entered
+2018-07-22 14:02:21 INFO  root:41 - UserName Entered
+2018-07-22 14:02:23 INFO  root:36 - Password Entered
+2018-07-22 14:02:23 INFO  root:41 - UserName Entered
+2018-07-22 14:02:29 INFO  root:41 - myFirstTest got Passed
+2018-07-22 14:02:29 INFO  root:72 - Drver got closed
+2018-07-22 14:02:30 INFO  root:74 - Drver got closed
+2018-07-22 14:02:30 INFO  root:25 - Listner Testcase Pass:
+2018-07-22 14:02:32 INFO  root:48 - Chrome driver initiated
+2018-07-22 14:02:34 INFO  root:56 - Driver maxmized
+2018-07-22 14:02:34 INFO  root:58 - implicit timeout set
+2018-07-22 14:02:34 INFO  root:60 - Deleted all cookies
+2018-07-22 14:02:35 INFO  root:66 - invoked base url
+2018-07-22 14:02:35 INFO  root:28 - FirstTest started
+2018-07-22 14:02:36 INFO  root:31 - UserName Entered
+2018-07-22 14:02:36 INFO  root:41 - UserName Entered
+2018-07-22 14:02:38 INFO  root:36 - Password Entered
+2018-07-22 14:02:38 INFO  root:41 - UserName Entered
+2018-07-22 14:02:43 INFO  root:39 - myFirstTest got Passed
+2018-07-22 14:02:43 INFO  root:72 - Drver got closed
+2018-07-22 14:02:44 INFO  root:74 - Drver got closed
+2018-07-22 14:02:44 INFO  root:25 - Listner Testcase Pass:
+2018-07-22 14:03:37 INFO  root:48 - Chrome driver initiated
+2018-07-22 14:03:38 INFO  root:56 - Driver maxmized
+2018-07-22 14:03:38 INFO  root:58 - implicit timeout set
+2018-07-22 14:03:38 INFO  root:60 - Deleted all cookies
+2018-07-22 14:03:40 INFO  root:66 - invoked base url
+2018-07-22 14:03:40 INFO  root:30 - FirstTest started
+2018-07-22 14:03:40 INFO  root:31 - UserName Entered
+2018-07-22 14:03:40 INFO  root:41 - UserName Entered
+2018-07-22 14:03:43 INFO  root:36 - Password Entered
+2018-07-22 14:03:43 INFO  root:41 - UserName Entered
+2018-07-22 14:03:47 INFO  root:41 - myFirstTest got Passed
+2018-07-22 14:03:47 INFO  root:72 - Drver got closed
+2018-07-22 14:03:48 INFO  root:74 - Drver got closed
+2018-07-22 14:03:49 INFO  root:25 - Listner Testcase Pass:
+2018-07-22 14:03:51 INFO  root:48 - Chrome driver initiated
+2018-07-22 14:03:52 INFO  root:56 - Driver maxmized
+2018-07-22 14:03:52 INFO  root:58 - implicit timeout set
+2018-07-22 14:03:52 INFO  root:60 - Deleted all cookies
+2018-07-22 14:03:53 INFO  root:66 - invoked base url
+2018-07-22 14:03:53 INFO  root:28 - FirstTest started
+2018-07-22 14:03:54 INFO  root:31 - UserName Entered
+2018-07-22 14:03:54 INFO  root:41 - UserName Entered
+2018-07-22 14:03:56 INFO  root:36 - Password Entered
+2018-07-22 14:03:56 INFO  root:41 - UserName Entered
+2018-07-22 14:04:02 INFO  root:39 - myFirstTest got Passed
+2018-07-22 14:04:02 INFO  root:72 - Drver got closed
+2018-07-22 14:04:03 INFO  root:74 - Drver got closed
+2018-07-22 14:04:03 INFO  root:25 - Listner Testcase Pass:
+2018-07-22 19:35:49 INFO  root:49 - Chrome driver initiated
+2018-07-22 19:35:50 INFO  root:57 - Driver maxmized
+2018-07-22 19:35:50 INFO  root:59 - implicit timeout set
+2018-07-22 19:35:50 INFO  root:61 - Deleted all cookies
+2018-07-22 19:35:52 INFO  root:67 - invoked base url
+2018-07-22 19:35:52 INFO  root:30 - FirstTest started
+2018-07-22 19:35:53 INFO  root:31 - UserName Entered
+2018-07-22 19:35:53 INFO  root:41 - UserName Entered
+2018-07-22 19:35:55 INFO  root:36 - Password Entered
+2018-07-22 19:35:55 INFO  root:41 - UserName Entered
+2018-07-22 19:36:00 INFO  root:41 - myFirstTest got Passed
+2018-07-22 19:36:02 INFO  root:25 - Listner Testcase Pass:
+2018-07-22 19:36:02 INFO  root:73 - Drver got closed
+2018-07-22 19:36:04 INFO  root:75 - Drver got closed
+2018-07-22 19:36:06 INFO  root:49 - Chrome driver initiated
+2018-07-22 19:36:07 INFO  root:57 - Driver maxmized
+2018-07-22 19:36:07 INFO  root:59 - implicit timeout set
+2018-07-22 19:36:07 INFO  root:61 - Deleted all cookies
+2018-07-22 19:36:10 INFO  root:67 - invoked base url
+2018-07-22 19:36:10 INFO  root:28 - FirstTest started
+2018-07-22 19:36:10 INFO  root:31 - UserName Entered
+2018-07-22 19:36:10 INFO  root:41 - UserName Entered
+2018-07-22 19:36:12 INFO  root:36 - Password Entered
+2018-07-22 19:36:13 INFO  root:41 - UserName Entered
+2018-07-22 19:36:19 INFO  root:39 - myFirstTest got Passed
+2018-07-22 19:36:19 INFO  root:25 - Listner Testcase Pass:
+2018-07-22 19:36:19 INFO  root:73 - Drver got closed
+2018-07-22 19:36:20 INFO  root:75 - Drver got closed
+2018-07-22 19:36:58 INFO  root:49 - Chrome driver initiated
+2018-07-22 19:37:00 INFO  root:57 - Driver maxmized
+2018-07-22 19:37:00 INFO  root:59 - implicit timeout set
+2018-07-22 19:37:00 INFO  root:61 - Deleted all cookies
+2018-07-22 19:37:01 INFO  root:67 - invoked base url
+2018-07-22 19:37:01 INFO  root:30 - FirstTest started
+2018-07-22 19:37:02 INFO  root:31 - UserName Entered
+2018-07-22 19:37:32 INFO  root:30 - Listner Testcase Fail:
+2018-07-22 19:37:32 INFO  root:73 - Drver got closed
+2018-07-22 19:37:32 INFO  root:30 - Listner Testcase Fail:
+2018-07-22 19:37:32 INFO  root:73 - Drver got closed
+2018-07-22 19:37:32 INFO  root:73 - Drver got closed
+2018-07-22 19:37:33 INFO  root:75 - Drver got closed
+2018-07-22 19:42:43 INFO  root:49 - Chrome driver initiated
+2018-07-22 19:42:44 INFO  root:57 - Driver maxmized
+2018-07-22 19:42:44 INFO  root:59 - implicit timeout set
+2018-07-22 19:42:44 INFO  root:61 - Deleted all cookies
+2018-07-22 19:42:46 INFO  root:67 - invoked base url
+2018-07-22 19:42:46 INFO  root:30 - FirstTest started
+2018-07-22 19:42:46 INFO  root:31 - UserName Entered
+2018-07-22 19:43:16 INFO  root:30 - Listner Testcase Fail:
+2018-07-22 19:43:17 INFO  root:73 - Drver got closed
+2018-07-22 19:43:17 INFO  root:30 - Listner Testcase Fail:
+2018-07-22 19:43:17 INFO  root:73 - Drver got closed
+2018-07-22 19:44:36 INFO  root:49 - Chrome driver initiated
+2018-07-22 19:44:37 INFO  root:57 - Driver maxmized
+2018-07-22 19:44:37 INFO  root:59 - implicit timeout set
+2018-07-22 19:44:37 INFO  root:61 - Deleted all cookies
+2018-07-22 19:44:39 INFO  root:67 - invoked base url
+2018-07-22 19:44:39 INFO  root:30 - FirstTest started
+2018-07-22 19:44:39 INFO  root:31 - UserName Entered
+2018-07-22 19:44:39 INFO  root:41 - UserName Entered
+2018-07-22 19:44:42 INFO  root:36 - Password Entered
+2018-07-22 19:44:42 INFO  root:41 - UserName Entered
+2018-07-22 19:44:46 INFO  root:41 - myFirstTest got Passed
+2018-07-22 19:44:47 INFO  root:73 - Drver got closed
+2018-07-22 19:44:48 INFO  root:25 - Listner Testcase Pass:
+2018-07-22 19:44:50 INFO  root:49 - Chrome driver initiated
+2018-07-22 19:44:51 INFO  root:57 - Driver maxmized
+2018-07-22 19:44:51 INFO  root:59 - implicit timeout set
+2018-07-22 19:44:51 INFO  root:61 - Deleted all cookies
+2018-07-22 19:44:53 INFO  root:67 - invoked base url
+2018-07-22 19:44:53 INFO  root:28 - FirstTest started
+2018-07-22 19:44:53 INFO  root:31 - UserName Entered
+2018-07-22 19:44:53 INFO  root:41 - UserName Entered
+2018-07-22 19:44:55 INFO  root:36 - Password Entered
+2018-07-22 19:44:55 INFO  root:41 - UserName Entered
+2018-07-22 19:45:00 INFO  root:39 - myFirstTest got Passed
+2018-07-22 19:45:00 INFO  root:73 - Drver got closed
+2018-07-22 19:45:01 INFO  root:25 - Listner Testcase Pass:
+2018-07-27 09:17:15 INFO  root:46 - Chrome driver initiated
+2018-07-27 09:17:17 INFO  root:54 - Driver maxmized
+2018-07-27 09:17:17 INFO  root:56 - implicit timeout set
+2018-07-27 09:17:18 INFO  root:58 - Deleted all cookies
+2018-07-27 09:17:21 INFO  root:64 - invoked base url
+2018-07-27 09:17:21 INFO  root:30 - FirstTest started
+2018-07-27 09:17:21 INFO  root:31 - UserName Entered
+2018-07-27 09:17:22 INFO  root:41 - UserName Entered
+2018-07-27 09:17:24 INFO  root:36 - Password Entered
+2018-07-27 09:17:24 INFO  root:41 - UserName Entered
+2018-07-27 09:17:30 INFO  root:41 - myFirstTest got Passed
+2018-07-27 09:17:30 INFO  root:70 - Drver got closed
+2018-07-27 09:17:32 INFO  root:25 - Listner Testcase Pass:
+2018-07-27 09:17:34 INFO  root:46 - Chrome driver initiated
+2018-07-27 09:17:35 INFO  root:54 - Driver maxmized
+2018-07-27 09:17:35 INFO  root:56 - implicit timeout set
+2018-07-27 09:17:35 INFO  root:58 - Deleted all cookies
+2018-07-27 09:17:37 INFO  root:64 - invoked base url
+2018-07-27 09:17:37 INFO  root:28 - FirstTest started
+2018-07-27 09:17:37 INFO  root:31 - UserName Entered
+2018-07-27 09:17:37 INFO  root:41 - UserName Entered
+2018-07-27 09:17:39 INFO  root:36 - Password Entered
+2018-07-27 09:17:39 INFO  root:41 - UserName Entered
+2018-07-27 09:17:44 INFO  root:39 - myFirstTest got Passed
+2018-07-27 09:17:44 INFO  root:70 - Drver got closed
+2018-07-27 09:17:45 INFO  root:25 - Listner Testcase Pass:

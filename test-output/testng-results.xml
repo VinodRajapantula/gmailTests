@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="33950" started-at="2018-07-27T03:47:11Z" finished-at="2018-07-27T03:47:45Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="33950" started-at="2018-07-27T03:47:11Z" finished-at="2018-07-27T03:47:45Z">
+      <class name="scenarios.Test2">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:scenarios.Test2@79be0360]" name="setUp" is-config="true" duration-ms="4839" started-at="2018-07-27T09:17:32Z" finished-at="2018-07-27T09:17:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="mySecondTest()[pri:0, instance:scenarios.Test2@79be0360]" name="mySecondTest" duration-ms="8641" started-at="2018-07-27T09:17:37Z" finished-at="2018-07-27T09:17:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySecondTest -->
+      </class> <!-- scenarios.Test2 -->
+      <class name="scenarios.Test1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:scenarios.Test1@6321e813]" name="setUp" is-config="true" duration-ms="9271" started-at="2018-07-27T09:17:11Z" finished-at="2018-07-27T09:17:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="myFirstTest()[pri:0, instance:scenarios.Test1@6321e813]" name="myFirstTest" duration-ms="11164" started-at="2018-07-27T09:17:21Z" finished-at="2018-07-27T09:17:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myFirstTest -->
+      </class> <!-- scenarios.Test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
